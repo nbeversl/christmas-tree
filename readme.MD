@@ -22,7 +22,7 @@ A lightweight Christmas tree generator for JavaScript
 
 ### text editor
 
-[](https://github.com/nbeversl/christmas-tree/blob/main/example-in-browser.png)
+![VSCode](https://github.com/nbeversl/christmas-tree/blob/main/example-in-browser.png)
 
 ## known limitations
 - does not work in IE9
