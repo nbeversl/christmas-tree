@@ -9,6 +9,8 @@ A lightweight Christmas tree generator for JavaScript
 
 ## example uses:
 
+### browser
+
 	function ChristmasTreeFarm(numberTrees) {
 		farm = '';
 		for(i=0; i < numberTrees; i++) {
@@ -17,6 +19,10 @@ A lightweight Christmas tree generator for JavaScript
 		return farm;
 	}
 	console.log(ChristmasTreeFarm(1000));
+
+### text editor
+
+[[./example-in-browser.png]]
 
 ## known limitations
 - does not work in IE9
